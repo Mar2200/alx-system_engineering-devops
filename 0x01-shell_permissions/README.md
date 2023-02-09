@@ -1,1 +1,1 @@
-a script that sets all permission to the other users for hello file
+a script that sets the mode of the file hello to 753
