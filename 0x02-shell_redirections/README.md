@@ -1,1 +1,1 @@
-a script that lists all the files with a .gif extension in the current directory and all its sub-directories
+ Display the number of lines that contain the pattern “bin” in the file /etc/passwd
