@@ -1,1 +1,1 @@
-a script that print hello user
+add/action to PATH.
