@@ -1,1 +1,1 @@
-a script that print every other line from input,starting with first line.
+script that add two numbers stored in the enviroment variables WATER and STIR and print the result.
