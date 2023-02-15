@@ -1,1 +1,1 @@
- a script that convert a number from base 2 to base 10
+a script that print all possible combination of two letters,except oo.
